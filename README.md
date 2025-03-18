@@ -1,4 +1,4 @@
-🚀 Gabriel Siqueira – Portfólio de Dados
+**🚀 Gabriel Siqueira – Portfólio de Dados**
 
 🎯 Transformando dados em insights para decisões estratégicas!
 
@@ -6,7 +6,7 @@
 
 Olá! Sou Gabriel Siqueira, bacharelando em Administração e apaixonado por Ciência e Análise de Dados. Tenho experiência prática no desenvolvimento de dashboards interativos, automação de processos e modelagem de dados utilizando ferramentas como Excel (VBA), Power BI, SQL, Python e Tableau. Meu objetivo é aplicar técnicas avançadas de análise para resolver problemas de negócios e otimizar processos.
 
-🔎 Habilidades e Ferramentas
+**🔎 Habilidades e Ferramentas**
 
 **📊 Análise e Visualização de Dados**
 
@@ -18,7 +18,7 @@ Olá! Sou Gabriel Siqueira, bacharelando em Administração e apaixonado por Ci�
 
 ✅ SQL – Manipulação e extração de dados em bancos relacionais
 
-🔬 Ciência de Dados e Machine Learning
+**🔬 Ciência de Dados e Machine Learning**
 
 ✅ ETL & Data Wrangling – Tratamento e limpeza de dados
 
@@ -28,9 +28,9 @@ Olá! Sou Gabriel Siqueira, bacharelando em Administração e apaixonado por Ci�
 
 ✅ Big Data – Processamento de grandes volumes de dados
 
-📬 Contato
+**📬 Contato**
 
-💼 LinkedIn: linkedin.com/in/gabriel-siqueira
-📧 E-mail: gabrielssantos254@gmail.com
+**💼 LinkedIn:** linkedin.com/in/gabriel-siqueira
+**📧 E-mail:** gabrielssantos254@gmail.com
 
 📢 Sinta-se à vontade para explorar meus projetos e contribuir com sugestões! 🚀
